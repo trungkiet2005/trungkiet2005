@@ -1,19 +1,23 @@
-[![trungkiet2005](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/trungkiet2005)
-<h1 align="center">Hi 👋, I'm Trung-Kiet Huynh</h1>
-<h3 align="center"> I'm studying at University of Science VNU-HCM, Viet Nam.</h3>
+[![trungkiet2005](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryed4nv20ly5wc7lzmge.gif)](https://github.com/trungkiet2005)
+<h1 align="center">👋 Hi, I'm Trung-Kiet Huynh</h1>
+<h3 align="center">🎓 AI Student at University of Science, VNU-HCM, Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trungkiet2005&label=Profile%20views&color=0e75b6&style=flat" alt="trungkiet2005" /> </p>
-<img align="right" alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=trungkiet2005&label=Profile%20views&color=0e75b6&style=flat" alt="trungkiet2005" />
+</p>
+<img align="right" alt="AI Coding" height="300" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 🧠 Passionate about **Machine Learning, Deep Learning & AI Engineering**  
+- 📫 Reach out: **huynhtrungkiet09032005@gmail.com**  
+- 📄 Check out my [Résumé](https://drive.google.com/file/d/14I8akwM9qPIjNxjfNQNEg1UUSndRpULw/view?usp=sharing)  
+- ⚡ Fun fact: **Always exploring new ideas to build intelligent, impactful AI applications!**
 
-- 📫 How to reach me **huynhtrungkiet09032005@gmail.com**
-
-- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/14I8akwM9qPIjNxjfNQNEg1UUSndRpULw/view?usp=sharing)
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,28 +26,27 @@
 <a href="https://fb.com/phamducthe2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamducthe2k1" height="30" width="40" /></a> -->
 <a href="mailto:huynhtrungkiet09032005@gmail.com"><img src="https://img.shields.io/badge/-huynhtrungkiet09032005@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/huynhtrungkiet2005/"><img src="https://img.shields.io/badge/-huynhtrungkiet2005-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/trung-kiet-huynh-641130338/"><img src="https://img.shields.io/badge/-trung-kiet-huynh-641130338-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/trung-kiet-huynh-641130338/">
+  <img src="https://img.shields.io/badge/trung--kiet--huynh-641130338-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
 <a href="https://www.instagram.com/huynhtrungkiet2005/"><img src="https://img.shields.io/badge/-@huynhtrungkiet2005-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  -->
-<!--   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>  -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  -->
-<!--   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  -->
-<!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<!--   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  -->
-<!--   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
+<h3 align="left">🛠️ Tools & Technologies for AI/ML Engineering:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://www.huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Hugging_Face_Company_Logo.png" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
-
 
 
 
