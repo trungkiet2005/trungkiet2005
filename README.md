@@ -7,16 +7,13 @@
 </p>
 <img align="right" alt="AI Coding" height="300" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
-- 🧠 Passionate about **Machine Learning, Deep Learning & AI Engineering**  
-- 📫 Reach out: **huynhtrungkiet09032005@gmail.com**  
-- 📄 Check out my [Résumé](https://drive.google.com/file/d/14I8akwM9qPIjNxjfNQNEg1UUSndRpULw/view?usp=sharing)  
-- ⚡ Fun fact: **Always exploring new ideas to build intelligent, impactful AI applications!**
+### 👇 About Me
+- 🧠 **Passionate about**: Machine Learning, Deep Learning & AI Engineering  
+- 📫 **Email**: [huynhtrungkiet09032005@gmail.com](mailto:huynhtrungkiet09032005@gmail.com)  
+- 📄 **Résumé**: [View Here ↗️](https://drive.google.com/file/d/14I8akwM9qPIjNxjfNQNEg1UUSndRpULw/view?usp=sharing)  
+- ⚡ **Fun Fact**: Always exploring new ideas to build intelligent, impactful AI applications!  
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,7 +37,7 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://www.huggingface.co/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Hugging_Face_Company_Logo.png" alt="Hugging Face" width="40" height="40"/></a>
+  <a href="https://www.huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/></a>
