@@ -1,4 +1,4 @@
-[![trungkiet2005](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryed4nv20ly5wc7lzmge.gif)](https://github.com/trungkiet2005)
+[![trungkiet2005]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryed4nv20ly5wc7lzmge.gif](https://miro.medium.com/v2/resize:fit:2000/1*8C5-jT1MwQrJ8cO8Zfy81w.gif))](https://github.com/trungkiet2005)
 <h1 align="center">👋 Hi, I'm Trung-Kiet Huynh</h1>
 <h3 align="center">🎓 AI Student at University of Science, VNU-HCM, Vietnam</h3>
 
